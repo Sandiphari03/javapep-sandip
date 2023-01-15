@@ -23,14 +23,11 @@ class Main{
             System.out.println(i++);
         System.out.println(i*i*i);
 */
-        int[] arr ={10,20,30,30,50};
-        for (int i=1;i<arr.length;i++);
-        if (arr[i-1]==arr[i])
 
-        }
+
 
 
                 }
-        }
+
 }
 
