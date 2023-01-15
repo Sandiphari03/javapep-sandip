@@ -19,7 +19,6 @@ public class Conditional_2 {
                    System.out.println("he can vote");
                } else {
                    System.out.println("he cannot vote ");
-
                }
            }else {
                System.out.println("invalid input");
